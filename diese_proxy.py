@@ -44,7 +44,7 @@ ALLOWED_HOSTS = {"audocuments.diesesoftware.com"}
 # Named report sources. Add an entry here when a new report URL settles.
 REPORTS = {
     "screen": (
-        "https://audocuments.diesesoftware.com/tmp-903-CThWMwc4DwxWC1NYBg8KVVFeVXheVFFfBFUBcwA1AGE=.html"
+        "https://tab.diesesoftware.com/sp-UyVSZARq-AjVSNQw5-VhxWVQNCXEw=-BTYFalVg"
         "?mode=html"
         "&idUtilisateur=189"
         "&idProds=289,246,221,220,263,261,218,219,208,243,228,223,240,233,231,245,225,226"
