@@ -47,7 +47,7 @@ REPORTS = {
     # through as "Not Available" entries, often spanning 00:00-23:59; the
     # board draws those as background bands rather than appointments.
     "health": (
-        "https://audocuments.diesesoftware.com/tmp-903-ADFRMAEsslashsCAsKVwcMBg8GWVVaUn9fVQcJA1IBcwA1UzI=.html"
+        "https://tab.diesesoftware.com/sp-UyVSZARq-AjVSNQw5-VhxWVQNCXEw=-BTYFalVg"
         "?modePartage=1"
         "&idSM=509"
         "&mode=html"
